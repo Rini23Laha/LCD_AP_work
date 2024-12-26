@@ -1,11 +1,11 @@
 # Introduction 
-Ingest the TRRT data into data lake, this data helps measure the efficiency of the agents in call center and more value is derived when this data is joined with LBShell lblogistrpt_eu.processed.segment and lblogistrpt_eu.processed.customerprofile tables
+Ingest the LCD data into data lake, this data helps measure the efficiency of the agents in call center and more value is derived when this data is joined with LBShell lblogistrpt_eu.processed.segment and lblogistrpt_eu.processed.customerprofile tables
 
 - Requirements
-https://approd.sharepoint.com/:w:/r/sites/DataManagement/Data%20Architecture/Projects/EDL%20TRRT%20(WREQ0015027)/TRRT%20Functional%20Specification.docx?d=wba21585537ae41df8aba4b38a94e9c34&csf=1&web=1&e=zTGHlf
+https://approd.sharepoint.com/:w:/r/sites/DataManagement/Data%20Architecture/Projects/EDL%20LCD%20(WREQ0015027)/LCD%20Functional%20Specification.docx?d=wba21585537ae41df8aba4b38a94e9c34&csf=1&web=1&e=zTGHlf
 
 - TSA
-https://approd.sharepoint.com/:w:/r/sites/Architecture/Technical%20Summary/TRRT_EDL_TSA.docx?d=w4f45887e0bf8405cafc2957ba4504263&csf=1&web=1&e=mbeddN
+https://approd.sharepoint.com/:w:/r/sites/Architecture/Technical%20Summary/LCD_EDL_TSA.docx?d=w4f45887e0bf8405cafc2957ba4504263&csf=1&web=1&e=mbeddN
 
 - Vendor API Documentation: https://develop.clink.cn/develop/api/cc.html#_%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E
 
